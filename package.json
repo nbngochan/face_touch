@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mycv/f8-notification": "^1.0.1",
+    "@tensorflow-models/knn-classifier": "^1.2.4",
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^4.0.0",
+    "howler": "^2.2.3"
+  }
+}
